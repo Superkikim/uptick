@@ -1,9 +1,9 @@
 module.exports = {
   connConfig: {
-    server: 'DB_SERVER_IPADDRESS',
-    database: 'DATABASE_NAME',
-    user: 'DB_USER',
-    password: 'DB_USER_PASSWORD',
-    port: PORT 
-  },
+    server: '10.21.35.114',
+    database: 'Uptick',
+    user: 'NTNXLAB\adminuser01',
+    password: 'nutanix/4u',
+    port: '1433'
+  }
 };
